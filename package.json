@@ -1,0 +1,14 @@
+{
+  "name": "keynote",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {},
+  "keywords": [
+    "keynote"
+  ],
+  "author": {
+    "name": "Nansen Ho",
+    "email": "song.he0302@gmail.com"
+  },
+  "license": "MIT"
+}
